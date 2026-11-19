@@ -1,2 +1,11 @@
 # NEW-DIGITAL-PORTFOLIO
 I am Macarangcat, an Information Technology student passionate about technology, programming, and web development. I enjoy exploring new technologies, learning programming languages, and creating digital solutions that solve real-world problems. I have basic knowledge of HTML, CSS, JavaScript, C++, and MySQL, along with experience using Visual Studio Code, GitHub, and Figma. Throughout my academic journey, I have worked on projects such as a personal portfolio website, a student management system, and an online clothing shop design. I consider myself a motivated, responsible, and creative learner who enjoys challenges and working with others. My goal is to become a professional web developer and continuously improve my skills in the IT industry.
+
+CONTACT ME
+
+I am always open to connecting with fellow students, developers, and technology enthusiasts.
+Email: alexmorgan.it@example.com
+Phone: +63 912 345 6789
+Location: Koronadal City, Philippines
+GitHub: github.com/alexmorgan-dev
+LinkedIn: linkedin.com/in/alexmorgan-it
